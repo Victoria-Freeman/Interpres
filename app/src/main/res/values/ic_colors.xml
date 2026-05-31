@@ -1,0 +1,4 @@
+<resources>
+    <color name="icon_bg">@color/tegula_accent</color>
+    <color name="icon_fg">@color/tegula_text_on_accent</color>
+</resources>

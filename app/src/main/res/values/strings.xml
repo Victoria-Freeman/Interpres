@@ -1,0 +1,128 @@
+<resources>
+    <string name="app_name">Interpres</string>
+    <string name="swap">\u21C4</string>
+    <string name="translate">Translate</string>
+    <string name="enter_text">Enter text to translate</string>
+    <string name="translating">Translating…</string>
+    <string name="error_translation">Translation failed. Please try again.</string>
+    <string name="scan_image">Scan image</string>
+    <string name="ocr_error">OCR failed. Please try again.</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="no_text_detected">No text detected in image</string>
+    <string name="enter_text_hint">Please enter text</string>
+    <string name="languages_must_differ">Source and target must differ</string>
+    <string name="crop_again">Crop again</string>
+    <string name="ocr_init_failed">OCR engine init failed</string>
+
+    <string-array name="language_names">
+        <item>Afrikaans</item>
+        <item>Belarusian</item>
+        <item>Bengali</item>
+        <item>Bulgarian</item>
+        <item>Catalan</item>
+        <item>Chinese (Simplified)</item>
+        <item>Croatian</item>
+        <item>Czech</item>
+        <item>Danish</item>
+        <item>Dutch</item>
+        <item>English</item>
+        <item>Esperanto</item>
+        <item>Estonian</item>
+        <item>Finnish</item>
+        <item>French</item>
+        <item>Galician</item>
+        <item>Georgian</item>
+        <item>German</item>
+        <item>Greek</item>
+        <item>Gujarati</item>
+        <item>Haitian Creole</item>
+        <item>Hebrew</item>
+        <item>Hindi</item>
+        <item>Hungarian</item>
+        <item>Icelandic</item>
+        <item>Indonesian</item>
+        <item>Irish</item>
+        <item>Italian</item>
+        <item>Japanese</item>
+        <item>Kannada</item>
+        <item>Korean</item>
+        <item>Lithuanian</item>
+        <item>Macedonian</item>
+        <item>Marathi</item>
+        <item>Norwegian Bokmål</item>
+        <item>Polish</item>
+        <item>Portuguese</item>
+        <item>Romanian</item>
+        <item>Russian</item>
+        <item>Slovak</item>
+        <item>Slovenian</item>
+        <item>Spanish</item>
+        <item>Swahili</item>
+        <item>Swedish</item>
+        <item>Tagalog</item>
+        <item>Tamil</item>
+        <item>Telugu</item>
+        <item>Thai</item>
+        <item>Turkish</item>
+        <item>Ukrainian</item>
+        <item>Urdu</item>
+        <item>Vietnamese</item>
+        <item>Welsh</item>
+    </string-array>
+    <string-array name="language_mlkit_codes">
+        <item>af</item>
+        <item>be</item>
+        <item>bn</item>
+        <item>bg</item>
+        <item>ca</item>
+        <item>zh</item>
+        <item>hr</item>
+        <item>cs</item>
+        <item>da</item>
+        <item>nl</item>
+        <item>en</item>
+        <item>eo</item>
+        <item>et</item>
+        <item>fi</item>
+        <item>fr</item>
+        <item>gl</item>
+        <item>ka</item>
+        <item>de</item>
+        <item>el</item>
+        <item>gu</item>
+        <item>ht</item>
+        <item>he</item>
+        <item>hi</item>
+        <item>hu</item>
+        <item>is</item>
+        <item>id</item>
+        <item>ga</item>
+        <item>it</item>
+        <item>ja</item>
+        <item>kn</item>
+        <item>ko</item>
+        <item>lt</item>
+        <item>mk</item>
+        <item>mr</item>
+        <item>no</item>
+        <item>pl</item>
+        <item>pt</item>
+        <item>ro</item>
+        <item>ru</item>
+        <item>sk</item>
+        <item>sl</item>
+        <item>es</item>
+        <item>sw</item>
+        <item>sv</item>
+        <item>tl</item>
+        <item>ta</item>
+        <item>te</item>
+        <item>th</item>
+        <item>tr</item>
+        <item>uk</item>
+        <item>ur</item>
+        <item>vi</item>
+        <item>cy</item>
+    </string-array>
+</resources>
