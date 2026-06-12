@@ -1,3 +1,6 @@
 [submodule "Tegula"]
 	path = Tegula
 	url = https://github.com/Victoria-Freeman/Tegula
+[submodule "OCR"]
+	path = OCR
+	url = https://github.com/Victoria-Freeman/OCR-android

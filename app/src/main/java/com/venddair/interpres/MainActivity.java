@@ -15,6 +15,8 @@ import android.view.View;
 import android.widget.Toast;
 import android.app.Activity;
 import com.venddair.interpres.databinding.ActivityMainBinding;
+import com.venddair.ocr.OcrEngine;
+import com.venddair.ocr.OcrLine;
 import com.venddair.tegula.core.TegulaEdgeToEdge;
 import com.venddair.tegula.dialogs.TegulaDialog;
 import com.venddair.tegula.dropdowns.TegulaDropdown;
@@ -222,7 +224,7 @@ public class MainActivity extends Activity {
                 return;
             }
             StringBuilder sb = new StringBuilder();
-            for (OcrLine l : lines) sb.append(l.text).append(" ");
+            for (OcrLine l : lines) sb.append(l.getText()).append(" ");
             if (destroyed) return;
             String translation = runTranslation(sb.toString().trim());
             ui(() -> {

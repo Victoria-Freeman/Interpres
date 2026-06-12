@@ -11,4 +11,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "Interpres"
 include ':app'
+include ':OCR'
 include ':Tegula:colors', ':Tegula:cards', ':Tegula:themes', ':Tegula:buttons', ':Tegula:core', ':Tegula:dimens', ':Tegula:dropdowns', ':Tegula:icons', ':Tegula:dialogs'

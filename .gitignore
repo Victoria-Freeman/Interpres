@@ -16,3 +16,4 @@ app/release
 *.hprof
 /.idea
 /.superpowers/brainstorm/667006-1780851904
+/OCR/build
